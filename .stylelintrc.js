@@ -6,7 +6,6 @@ module.exports = {
     'stylelint-config-prettier',
   ],
   plugins: [
-    'stylelint-prettier',
     'stylelint-order',
     'stylelint-config-rational-order/plugin',
   ],
